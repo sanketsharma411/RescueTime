@@ -43,3 +43,4 @@ Temporary Items
 .apdisk
 
 API_KEY.txt/*
+.ipynb_checkpoints/*
