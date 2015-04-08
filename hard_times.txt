@@ -1,0 +1,72 @@
+2015-02-03 16:00:00	300	Google Music Player for Android
+2015-02-03 16:00:00	300	WhatsApp Messenger Android
+2015-02-03 16:00:00	226	Google Chrome for Android
+2015-02-03 16:00:00	135	Voice Call Log
+2015-02-10 15:05:00	300	Google Music Player for Android
+2015-02-10 15:05:00	300	WhatsApp Messenger Android
+2015-02-10 15:05:00	226	Google Chrome for Android
+2015-02-10 15:05:00	135	Voice Call Log
+2015-02-10 15:10:00	300	Google Music Player for Android
+2015-02-10 15:10:00	300	WhatsApp Messenger Android
+2015-02-10 15:10:00	226	Google Chrome for Android
+2015-02-10 15:10:00	135	Voice Call Log
+2015-02-10 15:20:00	300	Google Music Player for Android
+2015-02-10 15:20:00	300	WhatsApp Messenger Android
+2015-02-10 15:20:00	226	Google Chrome for Android
+2015-02-10 15:20:00	135	Voice Call Log
+2015-02-10 15:25:00	300	Google Music Player for Android
+2015-02-10 15:25:00	300	WhatsApp Messenger Android
+2015-02-10 15:25:00	226	Google Chrome for Android
+2015-02-10 15:25:00	135	Voice Call Log
+2015-02-10 15:30:00	300	Google Music Player for Android
+2015-02-10 15:30:00	300	WhatsApp Messenger Android
+2015-02-10 15:30:00	226	Google Chrome for Android
+2015-02-10 15:30:00	135	Voice Call Log
+2015-02-10 15:35:00	300	Google Music Player for Android
+2015-02-10 15:35:00	300	WhatsApp Messenger Android
+2015-02-10 15:35:00	226	Google Chrome for Android
+2015-02-10 15:35:00	135	Voice Call Log
+2015-02-10 15:40:00	300	Google Music Player for Android
+2015-02-10 15:40:00	300	WhatsApp Messenger Android
+2015-02-10 15:40:00	226	Google Chrome for Android
+2015-02-10 15:40:00	135	Voice Call Log
+2015-02-10 15:45:00	300	Google Music Player for Android
+2015-02-10 15:45:00	300	WhatsApp Messenger Android
+2015-02-10 15:45:00	226	Google Chrome for Android
+2015-02-10 15:45:00	135	Voice Call Log
+2015-02-10 15:50:00	300	Google Music Player for Android
+2015-02-10 15:50:00	300	WhatsApp Messenger Android
+2015-02-10 15:50:00	226	Google Chrome for Android
+2015-02-10 15:50:00	135	Voice Call Log
+2015-02-10 15:55:00	300	Google Music Player for Android
+2015-02-10 15:55:00	300	WhatsApp Messenger Android
+2015-02-10 15:55:00	226	Google Chrome for Android
+2015-02-10 15:55:00	135	Voice Call Log
+2015-02-10 16:00:00	300	Google Music Player for Android
+2015-02-10 16:00:00	300	WhatsApp Messenger Android
+2015-02-10 16:00:00	226	Google Chrome for Android
+2015-02-10 16:00:00	135	Voice Call Log
+2015-02-10 16:05:00	300	Google Music Player for Android
+2015-02-10 16:05:00	300	WhatsApp Messenger Android
+2015-02-10 16:05:00	226	Google Chrome for Android
+2015-02-10 16:05:00	135	Voice Call Log
+2015-02-10 16:10:00	300	Google Music Player for Android
+2015-02-10 16:10:00	300	WhatsApp Messenger Android
+2015-02-10 16:10:00	226	Google Chrome for Android
+2015-02-10 16:10:00	135	Voice Call Log
+2015-02-13 22:55:00	300	Google Music Player for Android
+2015-02-13 22:55:00	300	WhatsApp Messenger Android
+2015-02-13 22:55:00	226	Google Chrome for Android
+2015-02-13 22:55:00	135	Voice Call Log
+2015-02-13 23:00:00	300	Google Music Player for Android
+2015-02-13 23:00:00	300	WhatsApp Messenger Android
+2015-02-13 23:00:00	226	Google Chrome for Android
+2015-02-13 23:00:00	135	Voice Call Log
+2015-02-14 17:40:00	300	Google Music Player for Android
+2015-02-14 17:40:00	300	WhatsApp Messenger Android
+2015-02-14 17:40:00	226	Google Chrome for Android
+2015-02-14 17:40:00	135	Voice Call Log
+2015-02-14 17:45:00	300	Google Music Player for Android
+2015-02-14 17:45:00	300	WhatsApp Messenger Android
+2015-02-14 17:45:00	226	Google Chrome for Android
+2015-02-14 17:45:00	135	Voice Call Log
